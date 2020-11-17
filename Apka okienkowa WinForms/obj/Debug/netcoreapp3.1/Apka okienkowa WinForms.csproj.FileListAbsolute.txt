@@ -1,0 +1,15 @@
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.exe
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.deps.json
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.runtimeconfig.json
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.runtimeconfig.dev.json
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.dll
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\bin\Debug\netcoreapp3.1\Apka okienkowa WinForms.pdb
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.csprojAssemblyReference.cache
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka_okienkowa_WinForms.Form1.resources
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.csproj.GenerateResource.cache
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.AssemblyInfoInputs.cache
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.AssemblyInfo.cs
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.csproj.CoreCompileInputs.cache
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.dll
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.pdb
+E:\prorgamowanie 2\C#\okienka\#1\Apka okienkowa WinForms\Apka okienkowa WinForms\obj\Debug\netcoreapp3.1\Apka okienkowa WinForms.genruntimeconfig.cache
